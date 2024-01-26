@@ -1,0 +1,16 @@
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\bin\Debug\net5.0\Task_3.exe
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\bin\Debug\net5.0\Task_3.deps.json
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\bin\Debug\net5.0\Task_3.runtimeconfig.json
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\bin\Debug\net5.0\Task_3.runtimeconfig.dev.json
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\bin\Debug\net5.0\Task_3.dll
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\bin\Debug\net5.0\ref\Task_3.dll
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\bin\Debug\net5.0\Task_3.pdb
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\obj\Debug\net5.0\Task_3.csproj.AssemblyReference.cache
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\obj\Debug\net5.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\obj\Debug\net5.0\Task_3.AssemblyInfoInputs.cache
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\obj\Debug\net5.0\Task_3.AssemblyInfo.cs
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\obj\Debug\net5.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\obj\Debug\net5.0\Task_3.dll
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\obj\Debug\net5.0\ref\Task_3.dll
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\obj\Debug\net5.0\Task_3.pdb
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\Task_3\obj\Debug\net5.0\Task_3.genruntimeconfig.cache

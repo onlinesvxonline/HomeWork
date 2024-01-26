@@ -1,0 +1,16 @@
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\bin\Debug\net5.0\DZ.exe
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\bin\Debug\net5.0\DZ.deps.json
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\bin\Debug\net5.0\DZ.runtimeconfig.json
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\bin\Debug\net5.0\DZ.runtimeconfig.dev.json
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\bin\Debug\net5.0\DZ.dll
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\bin\Debug\net5.0\ref\DZ.dll
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\bin\Debug\net5.0\DZ.pdb
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\obj\Debug\net5.0\DZ.csproj.AssemblyReference.cache
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\obj\Debug\net5.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\obj\Debug\net5.0\DZ.AssemblyInfoInputs.cache
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\obj\Debug\net5.0\DZ.AssemblyInfo.cs
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\obj\Debug\net5.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\obj\Debug\net5.0\DZ.dll
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\obj\Debug\net5.0\ref\DZ.dll
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\obj\Debug\net5.0\DZ.pdb
+C:\Users\DChornonog.NBI\Downloads\Новая папка (37)\DZ\obj\Debug\net5.0\DZ.genruntimeconfig.cache
